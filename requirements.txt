@@ -4,4 +4,3 @@ PyMuPDF
 msoffcrypto-tool
 langdetect
 requests
-re
