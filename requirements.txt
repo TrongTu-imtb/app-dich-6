@@ -1,0 +1,7 @@
+streamlit
+python-docx
+PyMuPDF
+msoffcrypto-tool
+langdetect
+requests
+re
